@@ -8,3 +8,4 @@ CS undergrad at Stanford with a background in autonomy and mission planning: pat
 - [rover_pathfinder](https://github.com/yashashaw/rover_pathfinder): path planning for the Stanford Student Space Initiative polar rover
 
 For the latest on what I'm working on → [LinkedIn](https://www.linkedin.com/in/yashashaw/)
+My website → [Yasha Shaw](https://www.yashashaw.dev)
