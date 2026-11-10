@@ -1,4 +1,4 @@
-### Hi, I'm Joshua (Yasha) Shaw 👋
+### Hi, I'm Yasha Shaw
 
 CS undergrad at Stanford with a background in autonomy and mission planning: pathfinding, perception, and getting software flying on real hardware.
 
